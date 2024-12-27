@@ -1,7 +1,8 @@
 # Hand_Digit_Recognition_CNN
-This repository contains a Convolutional Neural Network (CNN) approach for recognizing handwritten digits. By leveraging the MNIST dataset, we train a deep learning model that can accurately classify images of digits (0-9).
+This repository contains a Convolutional Neural Network (CNN) approach for recognizing handwritten digits. By leveraging the MNIST dataset, I trained a deep learning model that can accurately classify images of digits (0-9).
 
 ## Overview
+![Result](result_plot.png)
 Handwritten digit recognition is a classic use case for CNNs, often showcased with the MNIST dataset. In this project:
 
 1. A CNN model is constructed using Python and popular deep learning frameworks ( TensorFlow/Keras).
